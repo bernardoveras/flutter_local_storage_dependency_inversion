@@ -1,10 +1,10 @@
 # SOLID Dependency Inversion Principle Example
 
+This project is a practical example of the Dependency Inversion Principle, also known as "D" of SOLID.
+
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/bernardoveras/flutter_local_storage_dependency_inversion/blob/main/README.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/bernardoveras/flutter_local_storage_dependency_inversion/blob/main/README.pt-br.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/bernardoveras/flutter_local_storage_dependency_inversion/blob/main/README.es.md)
-
-This project is a practical example of the Dependency Inversion Principle, also known as "D" of SOLID.
 
 ## What is SOLID
 
